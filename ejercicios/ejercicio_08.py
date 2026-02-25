@@ -4,6 +4,8 @@
 # cada fruta en mayúsculas.
 frutas = ["manzana", "banana", "cereza", "naranja"]
 # Escribe tu código debajo de esta línea:
+for fruta in frutas:
+    print(fruta.upper())
 
 
 # Ejercicio 2: Tienes un diccionario con las calificaciones de un estudiante. 
