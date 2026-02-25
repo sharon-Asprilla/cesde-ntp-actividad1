@@ -2,7 +2,7 @@
 
 # Ejercicio 1: Escribe un programa que verifique si la variable 'numero' es positiva, negativa o cero.
 # Imprime un mensaje indicando el resultado.
-numero = -9
+numero = -7
 # Escribe tu código debajo de esta línea:
 if numero > 0:
     print("El número es positivo")
@@ -29,7 +29,7 @@ else:
 # y muestra un mensaje acordemente.
 numero_secreto = 14
 # Escribe tu código debajo de esta línea:
-if numero_secreto % 2 == 0:
+if numero_secreto % 14 == 0:
     print("El número es par")
 else:
     print("El número es impar")

@@ -1,8 +1,8 @@
 # Tema: Python Básico
 
 # Ejercicio 1: Escribe un programa que imprima en pantalla el mensaje "Hola, Mundo!".
-print("hola, mundo!")
 # Escribe tu código debajo de esta línea:
+print("hola, mundo!")
     # Sharon Saray Asprilla cordoba 
 
 
