@@ -19,3 +19,6 @@ print(f"Vives en {ciudad}, {pais}")
 # (Pista: puedes multiplicar cadenas de texto en Python usando el operador *).
 # Escribe tu código debajo de esta línea:
 
+
+palabra = input("Escribe una palabra sencilla: ")
+print(palabra * 5)
